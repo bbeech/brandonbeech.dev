@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brandonbeech.dev</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on brandonbeech.dev</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Sep 2025 12:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Wed, 03 Sep 2025 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2&#34;&gt;H2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3&#34;&gt;H3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4&#34;&gt;H4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5&#34;&gt;H5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6&#34;&gt;H6&lt;/h6&gt;&#xA;&lt;p&gt;Bullet points:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Point 1&lt;/li&gt;&#xA;&lt;li&gt;Point 2&lt;/li&gt;&#xA;&lt;li&gt;Point 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Numbered list:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;one&lt;/li&gt;&#xA;&lt;li&gt;two&lt;/li&gt;&#xA;&lt;li&gt;three&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
